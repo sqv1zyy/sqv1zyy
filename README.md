@@ -33,3 +33,7 @@ Here are some ideas to get you started:
 
 ### 🐳 DevOps & Инструменты
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/sqv1zyy?theme=light&font=Inter&ext=heatmap)
